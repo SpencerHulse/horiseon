@@ -8,4 +8,4 @@ This repository houses code for the landing page of Horiseon Social Solution Ser
 ![alt text](./assets/images/website-screenshot.png)
 
 The deployed site can be found at:
-https://spencerhulse.github.io/literate-umbrella/index.html#social-media-marketing
+https://spencerhulse.github.io/literate-umbrella/index.html
